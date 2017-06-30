@@ -7,3 +7,10 @@
 + Uploaded my first Portfolio Work on github
 + Downloaded one of Mr. Ebuka's repositories and it looked #awesome
 + Planning on ...
+
+#Thursday, 29th June, 2017
+==================================================================================
++ Worked intensively on my Portfolio
++ Learnt how to clone from github
++ Learnt how to push back to github after effecting corrections
++ Finished the introToWebDev video
