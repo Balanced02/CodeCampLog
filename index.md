@@ -30,3 +30,11 @@
 ###Normal log for the day
 + Learnt extensively on css styling, flex box
 + Worked on my portfolio
+
+#Saturday, 1st July, 2017
+==================================================================================
+####Videos Collected
++ Learnt about some new tags like blockquote, code etc.
+#### Javascript Videos from Scotch.io
++ Learnt how to get data from form input
++ Learnt how to manipulate data gotten from form input
