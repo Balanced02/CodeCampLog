@@ -38,3 +38,10 @@
 #### Javascript Videos from Scotch.io
 + Learnt how to get data from form input
 + Learnt how to manipulate data gotten from form input
+#Saturday, 1st July, 2017
+==================================================================================
+####PortFolio Page
++ Added time display
++ Changed the top background pic
+###Javascript Videos from Scotch.io
++ Going nice so far... just still learning, haven't applied yet... 
