@@ -33,11 +33,12 @@
 
 ### Saturday, 1st July, 2017
 ==================================================================================
-- Videos Collected
+#### Videos Collected
 + Learnt about some new tags like blockquote, code etc.
 #### Javascript Videos from Scotch.io
 + Learnt how to get data from form input
 + Learnt how to manipulate data gotten from form input
+
 ### Saturday, 1st July, 2017
 ==================================================================================
 ### PortFolio Page
