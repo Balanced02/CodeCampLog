@@ -39,10 +39,17 @@
 + Learnt how to get data from form input
 + Learnt how to manipulate data gotten from form input
 
-### Saturday, 1st July, 2017
+### Sunday, 2nd July, 2017
 ==================================================================================
 ### PortFolio Page
 + Added time display
 + Changed the top background pic
 ### Javascript Videos from Scotch.io
 + Going nice so far... just still learning, haven't applied yet... 
+
+### Mondaay, 3rd July, 2017
+==================================================================================
++ Learnt how to get form input and manipulate them using JavaScript
++ Learnt how to perform same operation using jQuery
++ Learnt the new Date() function and how to get hours, minutes and manipulate them
++ Solely learnt partially how to read docs from mdn and apply them
