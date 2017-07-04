@@ -53,3 +53,9 @@
 + Learnt how to perform same operation using jQuery
 + Learnt the new Date() function and how to get hours, minutes and manipulate them
 + Solely learnt partially how to read docs from mdn and apply them
+
+### Tuesday, 4th July, 2017
+==================================================================================
++ Learnt about switch statements and used it to solve an algorithm I originally used if statement to solve
++ Thanks to beta.fcc, recalled how to access object properties using the dot and bracket notations
++ Learnt how the setInterval works and read part of the docs on it from mdn
