@@ -102,3 +102,8 @@
     - Human Resource, Bank, Pay Roll
 + E-learning management system, Facility management system
 + To-Do list with countdown timer and alarm/alert when due
+
+### Thursday, 6th July, 2017
+==================================================================================
++ Learnt about scope
++ Learnt and understood better recursion
