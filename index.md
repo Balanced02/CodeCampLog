@@ -107,3 +107,32 @@
 ==================================================================================
 + Learnt about scope
 + Learnt and understood better recursion
+
+### Friday, 7th July, 2017
+==================================================================================
+
+
+### Saturday, 8th July, 2017
+==================================================================================
++ Learnt about React-Native
++ Set up my Android Studio
+##### Starting a new project on React-Native
++ go to the folder you wanna do the project in your terminal
+- react-native init weCodeApp2
+- npm install
+- open your android studio and get the emulator on
+- react-native run android // it'll load the embedded server and download some apps, you'll need internet for your first running
+- by default, it has an android folder// you can write your codes in the java file under /android/app/src/main/java/com/wecodeapp2
+- by default, it runs in debug mode // so you'll need to build a signed key and embed it in your java
+- it's better to write your app in another folder application/component directory //you'll need to create it
+- you can also create another folder assets under application where you can store your images, css files and others...
+- command d//reloads ios emulator
+- RR //reliads android emulator
+- NB: you can enable live reload & hot reload on the emulator; an advantage of react-native over native stuffs
+- You can edit the native first page of a react-native app by editing index.android.js file
+
+### Monday, 10th July, 2017
+==================================================================================
++ Learnt and used the reduce, filter and map functions
++ Started learning ES6 Module on beta.fcc
++ Learnt that the "use strict"; was to avoid use of undeclared variables.
