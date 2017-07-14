@@ -137,12 +137,17 @@
 + Started learning ES6 Module on beta.fcc
 + Learnt that the "use strict"; was to avoid use of undeclared variables.
 
-### Tuesday, 10th July, 2017
+### Tuesday, 11th July, 2017
 ==================================================================================
 + Introduced Nodejs
 + Learnt how to import and export using nodejs
 
-### Wednesday, 10th July, 2017
+### Wednesday, 12th July, 2017
 ==================================================================================
 + Started a Todo App
 + Learnt how to change css styles using jQuery
+
+### Thursday, 13th July, 2017
+==================================================================================
++ Learnt .empty() .append() manipulating the dom using jQuery
++ Learnt a little more about map and filter
