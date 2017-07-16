@@ -151,3 +151,17 @@
 ==================================================================================
 + Learnt .empty() .append() manipulating the dom using jQuery
 + Learnt a little more about map and filter
+
+### Friday, 14th July, 2017
+==================================================================================
++ Continued my todo App to some extent
++ Learnt how to use jQuery in adding or removing CSS classes
+
+### Saturday, 15th July, 2017
+==================================================================================
++ Re-did the todo App with some of my mates and understood some basic javascript concepts explicitly
+
+### Sunday, 16th July, 2017
+==================================================================================
++ Faced the tasks at repl.it and I'm almost done
++ Learnt about parseInt and str.substring methods
