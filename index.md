@@ -164,4 +164,25 @@
 ### Sunday, 16th July, 2017
 ==================================================================================
 + Faced the tasks at repl.it and I'm almost done
-+ Learnt about parseInt and str.substring methods
++ Learnt about parseInt/parseFloat and str.substring methods
+
+### Monday, 17th July, 2017
+==================================================================================
++ const express = require('express'); require keyword to import express which is in bracket
+
++ const app = express()//initialize express with an app variable
+
++ app.listen(3000, function(){
+	console.log('Your express server is now running on port 3000') //to display on your server console not browser console
+}) //app.listen takes a listen port number and localhost address, the localhost is optional
+
++ app.get('/', function ()....) //takes a string which represents a route you wanna handle for... / means home or homepage. every express route handler takes two values which are req (request object) and res (response object)
+
++ the request object (req) usually contains the information the client sends along with the get request, things like browser info, data sent to the server
+
++ the response object (res) contails the methods to format/determine the type of information sent to the client
+
++ http://localhost:3000/ after the : the number is the port number, if there isn't any number there, the default port is 80 for most web pages
+
++ res.redirect('/profile') //redirect a user to /profile route
+
