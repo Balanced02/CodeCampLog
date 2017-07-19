@@ -186,3 +186,15 @@
 
 + res.redirect('/profile') //redirect a user to /profile route
 
+
+### Tuesday, 18th July, 2017
+==================================================================================
++ app.post() // api endpoint
+
++ ETag:W/"818-15d46f2e9d8" //what the browser uses to know if the file has been changed hence a 304 message (Not Modified) or 200 (Ok/from disk cache/from memory cache)
+
++ body-parser // handles forms - Node.js body parsing middleware. Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+
++ npm install nodemon -g //utility that auto-restarts the node when there's any change
+
++ nodemon index //to run instead of node index
