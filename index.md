@@ -198,3 +198,9 @@
 + npm install nodemon -g //utility that auto-restarts the node when there's any change
 
 + nodemon index //to run instead of node index
+
+### Wednesday, 19th July, 2017
+==================================================================================
++ app.get('/show/:id', (req, res) => { // :id colon and value (request parameter)
+
++	state = req.params.id // accessing the id from the request.params.id
