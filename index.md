@@ -204,3 +204,20 @@
 + app.get('/show/:id', (req, res) => { // :id colon and value (request parameter)
 
 +	state = req.params.id // accessing the id from the request.params.id
+
+### Thursday, 20th July, 2017
+==================================================================================
++ Re-did the server side of the todo app and corrected the filtering functions
+
+### Friday, 21st July, 2017
+==================================================================================
++ Read about set and understood about adding to set and checking set length
+
+### Saturday, 22nd July, 2017
+==================================================================================
++ Learnt about Mongodb - that it is a NoSql database (doesnt have a fixed structure)
++ .find(), .update(), .createUser(), .createCollection, .insert(), .remove()
+
+### Sunday, 23rd July, 2017
+==================================================================================
++ Finished the repl.it test
