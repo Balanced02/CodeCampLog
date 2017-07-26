@@ -221,3 +221,13 @@
 ### Sunday, 23rd July, 2017
 ==================================================================================
 + Finished the repl.it test
+
+### Monday, 24th July, 2017
+==================================================================================
++ Learnt about using full bootstrap classes in creating a webpage instead of hacking the css ourselves
+
+### Tuesday, 25th July, 2017
+==================================================================================
++ Learng about ejs (embeded javaScript) a html format where you can embed javascript codes using <%=...%>
++ Learnt about sending routes from a server to another file to haldne
++ Learnt the difference in importing and exporting files and modules
