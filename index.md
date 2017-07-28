@@ -231,3 +231,25 @@
 + Learng about ejs (embeded javaScript) a html format where you can embed javascript codes using <%=...%>
 + Learnt about sending routes from a server to another file to haldne
 + Learnt the difference in importing and exporting files and modules
+
+### Wednesday, 26th July, 2017
+==================================================================================
++ Learnt about mongoosejs, created a cloud database with mlab, connected to it, learnt about promises
++ When we wait for an action to complete, we can use primises, callbacks or async //more research on async to be made
++ When you have to wait for something or not instant, you either use a promise, async or callbacks...
+
++ Promise = .then(); .catch(err) both takes a function that occurs when either it's fulfiled (then) or error (.catch)
+
++ Every query returns a promise
+
++ An empty query returns all data
+
+### Thursday, 27th July, 2017
+==================================================================================
++ Learnt about validation using mongoosejs, minimum, maximum, required and enum
+	- Min and Max for numbers to specify allowed entries
+	- Maxlength and Minlength for strings
+	- enum specifies set of allowed entries
+	- match specifies set of regular expression a string must match
+	- required...
+
