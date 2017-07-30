@@ -253,3 +253,15 @@
 	- match specifies set of regular expression a string must match
 	- required...
 
+### Friday, 28th July, 2017
+==================================================================================
++ Added update post, and search functionalities to KoldedLand
+
+### Saturday, 29th July, 2017
+==================================================================================
++ Added the registration form, handled form validation of username and passwords... yet to validate email
+
+### Sunday, 30th July, 2017
+==================================================================================
++ Login portal now working
++ Deletepost and update post now only shows if logged in
