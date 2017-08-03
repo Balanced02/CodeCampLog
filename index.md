@@ -265,3 +265,37 @@
 ==================================================================================
 + Login portal now working
 + Deletepost and update post now only shows if logged in
+
+### Monday, 1st August, 2017
+==================================================================================
++ Updated registration form of Koldedland
++ Learnt about loadash (_.pick) to get form values
+
+### Tuesday, 2nd August, 2017
+==================================================================================
++ Learnt more about bootstrap, grid system, jumbotron
+
+### Wednesday, 3rd August, 2017
+==================================================================================
++	React has JSX (a html-like syntax that can be written in javascript)
++	You can write your app as components...
+> Function cannot maintain state
++ Class in javascript are objects that does something
++ extends - more like prototype chaining... class TodoApp extends React.Component i.e. TodoApp will inherit many things from the basic react component
++ What makes React better is it's state management... Every react component can have a state (a data store or a way to store data).
++ To write javascript in JSX, you wrap it in curly braces
++ Class can maintain state, while functions are stateless components
++ all JSX must be wrapped together in a tag... best practice, a div... adjacent tags are not allowed
++ this.setState({object}) //changes the value you wanna change
++ this.setState((prevState) => { }) //passes the previous state to the function then change...
++ ReactDOM.render(<App />, document.getElementById('root')); takes two values... react component you want to render and where you want to render it
++ Class is a reserved word in javascript... so, you can't use html classes instead, we use className (class in html === className in react JSX)
++ React has autoreload at each save instance
++ mkdir to make a directory (folder)
++ touch src/index.js to create a file
+
+class ShoppingList extends React.Component {...} every react extends from React.Component
+
+props is a way parent component pass data to the child component
+
+function Square({iClick, value}) // object destructuring... specifying only the keys you need to be passed into the function from the object...
