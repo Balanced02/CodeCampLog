@@ -293,9 +293,15 @@
 + React has autoreload at each save instance
 + mkdir to make a directory (folder)
 + touch src/index.js to create a file
++ class ShoppingList extends React.Component {...} every react extends from React.Component
++ props is a way parent component pass data to the child component
++ function Square({iClick, value}) // object destructuring... specifying only the keys you need to be passed into the function from the object...
 
-class ShoppingList extends React.Component {...} every react extends from React.Component
+### Saturday, 5th August, 2017
+==================================================================================
++ Learnt about async functions like setTimeout() and callbacks
 
-props is a way parent component pass data to the child component
-
-function Square({iClick, value}) // object destructuring... specifying only the keys you need to be passed into the function from the object...
+### Sunday, 6th August, 2017
+==================================================================================
++ Learnt about find and FindOne - Find returns an object while findone returns an array in Mongodb
++ Just read a bit about jade
