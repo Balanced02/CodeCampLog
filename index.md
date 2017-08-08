@@ -305,3 +305,7 @@
 ==================================================================================
 + Learnt about find and FindOne - Find returns an object while findone returns an array in Mongodb
 + Just read a bit about jade
+
+### Monday, 7th August, 2017
+==================================================================================
++ Started re-definition of some JavaScript native functions
