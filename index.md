@@ -309,3 +309,10 @@
 ### Monday, 7th August, 2017
 ==================================================================================
 + Started re-definition of some JavaScript native functions
+
+### Tuesday, 7th August, 2017
+==================================================================================
++ Installed JsonView extension for viewing json objects in browser in a much nicer/clean form
++ JSON.stringify(body, filter, formatspaces) // JSON.stringify(object, undefined, 2)
++ Setting default values when creating a function e.g. function (val = 0) //sets val to 0 if it was called without passing any value
++ React-Native style = ({backgroundColor: '#34495E'}) 
