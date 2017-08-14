@@ -310,9 +310,41 @@
 ==================================================================================
 + Started re-definition of some JavaScript native functions
 
-### Tuesday, 7th August, 2017
+### Tuesday, 8th August, 2017
 ==================================================================================
 + Installed JsonView extension for viewing json objects in browser in a much nicer/clean form
 + JSON.stringify(body, filter, formatspaces) // JSON.stringify(object, undefined, 2)
 + Setting default values when creating a function e.g. function (val = 0) //sets val to 0 if it was called without passing any value
 + React-Native style = ({backgroundColor: '#34495E'}) 
+
+### Wednesday, 9th August, 2017
+==================================================================================
++ Redux is used for state management instead of managing state individually
++ Every redux action needs a type
+
+### Thursday, 10th August, 2017
+==================================================================================
++ Usin request npm module to send and receive json response
+
+### Friday, 11th August, 2017
+==================================================================================
+#### MR. TEMITOPE PAULSON
+> An Entrepreneur sees a need, and creates solution to them
++ Benefit: You must be clear on the benefit your product provides...
++ Target Market: Who buys from you and how you can make their lives better...
++ USP (Unique Selling Proposition)
+#### Competitive Advantage
++ Cost Leadership: Provide reasonable value at lower price
++ Differenciation (keyword: Innovation): Delivering value better than anyone else
++ Focus: Understanding and servicing your target market better than anyone else...
+> Repitition is the law of deep and lasting impression (10,000 hrs to mastery)
+
+#### Selling
++ Process where sales professionals convince a prospect to buy a good
+> No matter how passionate or eloquent a salesperson you may be, no matter how friendly your smile or likeable your personality, if you can't close the sale, your efforts yield nothing
+- Golden Nugget
+
+### Saturday, 12th August, 2017
+==================================================================================
++ Started a Todo App with React
++ Working on a Bible App
