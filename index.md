@@ -348,3 +348,7 @@
 ==================================================================================
 + Started a Todo App with React
 + Working on a Bible App
+
+### Friday, 18th August, 2017
+==================================================================================
++ Fix issue with stucking at Starting Packager... sudo sysctl -w fs.inotify.max_user_watches=10000
