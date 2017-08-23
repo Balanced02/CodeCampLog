@@ -349,6 +349,21 @@
 + Started a Todo App with React
 + Working on a Bible App
 
+### Thursday, 17th August, 2017
+==================================================================================
++ Styling in React native uses camelCases instead of dashes of CSS and often used as an object
+
 ### Friday, 18th August, 2017
 ==================================================================================
 + Fix issue with stucking at Starting Packager... sudo sysctl -w fs.inotify.max_user_watches=10000
+
+### Monday, 21st August, 2017
+==================================================================================
++ sudo mongod --dbpath /home/balanced02/data/db
++ Life cycle methods are functions automatically called at some point on a class that mounts the component once it's called // example comoponentWillMount
+
+### Tuesday, 22nd August, 2017
+==================================================================================
++ npm module - axios //to make http request
++ passport.serializeUser goes to the database and get the user object
++ passport.deserializeUser appends the user object to request
