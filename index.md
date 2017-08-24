@@ -372,6 +372,7 @@
 ==================================================================================
 + ComponentState: State is how React handles changing the content that shows on the screen
 + Did a Staff List page on React and achieved pagination
++ Added NewOrder api to Laundry-Express
 
 ### Thursday, 24th August, 2017
 ==================================================================================
