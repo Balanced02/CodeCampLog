@@ -367,3 +367,12 @@
 + npm module - axios //to make http request
 + passport.serializeUser goes to the database and get the user object
 + passport.deserializeUser appends the user object to request
+
+### Wednesday, 23rd August, 2017
+==================================================================================
++ ComponentState: State is how React handles changing the content that shows on the screen
++ Did a Staff List page on React and achieved pagination
+
+### Thursday, 24th August, 2017
+==================================================================================
++ By default, fetch does not send cookies, so we initialize credentials: 'include' in the options object
