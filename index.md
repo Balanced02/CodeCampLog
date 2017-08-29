@@ -377,3 +377,14 @@
 ### Thursday, 24th August, 2017
 ==================================================================================
 + By default, fetch does not send cookies, so we initialize credentials: 'include' in the options object
+
+### Saturday, 26th August, 2017
+==================================================================================
++ Make a product of your idea, get feedback from users and iterate
++ Docker installation [Docker Installation Link](https://docs.docker.com/engine/installation/)
++ [Docker Repository](https://hub.docker.com) for storing your images on the cloud
+
+### Sunday, 27th August, 2017
+==================================================================================
++ Accessing props from class component = this.props.
++ Accessing props from a functional component = props.
