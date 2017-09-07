@@ -407,10 +407,12 @@
 + git remote add upstream [Link to forked project](https://github.com/binkabir/faker.ng)
 + this in ES5 refers to the parent of where it's initialized/called (cause it lexically binds it to the function) while this in ES6 refers to the global object
 + Closure is a function that remembers it's scope after calling it
-	function closure(a) {
-		return function (b) {
-			return a * b
+	```javascript
+		function closure(a) {
+			return function (b) {
+				return a * b
+			}
 		}
-	}
-	var n = closure(3) // assigns the returned function to n
-	calling n(5) //returns 15 since n maintains a closure over the original function so, it has access to the a variable in the original function
+		var n = closure(3) // assigns the returned function to n
+		calling n(5) //returns 15 since n maintains a closure over the original function so, it has access to the a variable in the original function
+	```
