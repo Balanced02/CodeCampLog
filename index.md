@@ -388,3 +388,21 @@
 ==================================================================================
 + Accessing props from class component = this.props.
 + Accessing props from a functional component = props.
+
+### Tuesday, 5th September, 2017
+==================================================================================
++ Used nodemailer to send form details to email
+
+### Wednesday, 6th September, 2017
+==================================================================================
++ NODE_ENV usually a default process.env variable which results to either production, test or development
++ A closure is an inner function that has access to the outer (enclosing) function's variables—scope chain. The closure has three scope chains: it has access to its own scope (variables defined between its curly brackets), it has access to the outer function's variables, and it has access to the global variables.
++ passport.serializeUser checks the user cookies and goes to the database and to the user object
++ passport.deserializeUser appends the user object to request
+
+### Thursday, 7th September, 2017
+==================================================================================
++ Webpack + Babel to transpile all codes to a single ES5 file compatible for browsers
++ A component is a collection of Javascript functions that produce HTML
++ git remote add upstream [Link to forked project](https://github.com/binkabir/faker.ng)
++ this in ES5 refers to the parent of where it's initialized/called (cause it lexically binds it to the function) while this in ES6 refers to the global object
