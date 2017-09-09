@@ -404,7 +404,7 @@
 ==================================================================================
 + Webpack + Babel to transpile all codes to a single ES5 file compatible for browsers
 + A component is a collection of Javascript functions that produce HTML
-+ git remote add upstream [Link to forked project](https://github.com/binkabir/faker.ng)
++ git remote add upstream [Link to forked project](https://github.com/Balanced02/CodeCampLog)
 + this in ES5 refers to the parent of where it's initialized/called (cause it lexically binds it to the function) while this in ES6 refers to the global object
 + Closure is a function that remembers it's scope after calling it
 	```javascript
